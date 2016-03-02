@@ -1,5 +1,0 @@
-This is to test committed changes
-
-hey hello java
-
-hello job world what is happening
